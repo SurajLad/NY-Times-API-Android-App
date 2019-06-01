@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sl.nyt_sl.MainActivity">
+    <item
+        android:id="@+id/action_arts"
+        android:orderInCategory="100"
+        android:title="arts"/>
+
+    <item
+        android:id="@+id/action_automobiles"
+        android:orderInCategory="100"
+        android:title="automobiles"/>
+
+    <item
+        android:id="@+id/action_business"
+        android:orderInCategory="100"
+        android:title="Business"/>
+
+    <item
+        android:id="@+id/action_fashion"
+        android:orderInCategory="100"
+        android:title="Fashion"/>
+    <item
+        android:id="@+id/action_food"
+        android:orderInCategory="100"
+        android:title="Food"/>
+    <item
+        android:id="@+id/action_insider"
+        android:orderInCategory="100"
+        android:title="insider"/>
+    <item
+        android:id="@+id/action_magzines"
+        android:orderInCategory="100"
+        android:title="Magzines"/>
+    <item
+        android:id="@+id/action_movies"
+        android:orderInCategory="100"
+        android:title="Movies"/>
+
+    <item
+        android:id="@+id/action_sports"
+        android:orderInCategory="100"
+        android:title="Sports"/>
+
+</menu>
